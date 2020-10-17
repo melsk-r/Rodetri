@@ -4,4 +4,4 @@
 
 Dit is een test.
 
-[Informatie ovfer mij](info.md)
+[Informatie over mij](info.md)
