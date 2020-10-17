@@ -3,3 +3,5 @@
 ## Paragraaf 1.1
 
 Dit is een test.
+
+[Informatie ovfer mij](info.md)
