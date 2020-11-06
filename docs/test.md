@@ -17,7 +17,7 @@
 
 De tabel suggereert een verband tussen de waarden in de kollommen. 
 Er zijn natuurlijk ook wel verbanden aan te wijzen maar die zijn niet 1 op 1 tussen de naast elkaar liggende waarden. 
-Door er kolommen tussen te zetten hoop ik dat gesuggereerde verband een beetje te ontkrachten.
+Door er kolommen tussen te zetten hoop ik de suggestie van verband een beetje te ontkrachten.
 
 | Eigenschappen |  | Eco-systeem/overwegingen |  | Constraints |
 | :--- | :--- | :--- | :--- | :--- |
