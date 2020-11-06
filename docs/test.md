@@ -87,7 +87,7 @@ Hier een versie waarbij voor de woorden (die vet of cursief zijn) ook nog een ro
 | ![#FF0000](https://placehold.it/15/FF0000/000000?text=+) *Ease of development* |  |  |  |  |
 | ![#FF0000](https://placehold.it/15/FF0000/000000?text=+) *Costs* |  |  |  |  |
 
-Hier een versie waarbij de categorieën niet naast maar onder elkaar staan zodat er geen sprake is van verband. 
+Hier een versie waarbij de categorieën niet naast maar onder elkaar staan zodat de sugestie van verband niet opgaat. 
 
 |  |  |
 | :--- | :--- |
