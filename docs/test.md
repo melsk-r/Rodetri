@@ -13,7 +13,7 @@
 | Ease of development |  |  |
 | Costs |  |  |
 
-## Verbeteringen
+## Ontwerpen tot verbeteringen
 
 De tabel suggereert een verband tussen de waarden in de kollommen. 
 Er zijn natuurlijk ook wel verbanden aan te wijzen maar die zijn niet 1 op 1 tussen de naast elkaar liggende waarden. 
