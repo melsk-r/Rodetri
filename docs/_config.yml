@@ -1,5 +1,5 @@
-baseurl: "/Haal-Centraal-BRK-bevragen"
-apiname: "BRK Bevragen"
+baseurl: "/Rodetri"
+apiname: "Test met GitHub Pages theme"
 url: "http://localhost:4000"
 # nav is t.b.v. generatie side-navigation menu.
 # Een 'title' zonder path of url genereert slechts een kopje.
