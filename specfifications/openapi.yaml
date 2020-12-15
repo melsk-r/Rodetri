@@ -361,7 +361,7 @@ paths:
           description: "De bron die is gebruikt voor, dan wel de wijze van inwinning van de geometrie. De bron die is gebruikt voor, dan wel de wijze van inwinning van de geometrie. De bron die is gebruikt voor, dan wel de wijze van inwinning van de geometrie.Een inhoudelijke toelichting op de toepassing van het informatie-element."
           required: false
           schema:
-            $ref: "#/components/schemas/Bron"
+            type: string
         - in: query
           name: geometrietype
           description: ""
@@ -832,7 +832,7 @@ components:
         geometrie:
           type: string
         geometrieBron:
-          $ref: "#/components/schemas/Bron"
+          type: string
         geometrieType:
           $ref: "#/components/schemas/GeometrieType"
         hoogte:
@@ -1194,7 +1194,7 @@ components:
             description: "<body><p>Een inhoudelijke toelichting op de toepassing van\
               \ het informatie-element.</p></body>"
         identificatie:
-          $ref: "#/components/schemas/Identificatie"
+          type: string
         locatieIdentificatie:
           type: "array"
           items:
