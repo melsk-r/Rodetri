@@ -192,19 +192,19 @@ paths:
           description: ""
           required: false
           schema:
-            $ref: "#/components/schemas/Xs:string"
+            type: string
         - in: query
           name: identificatie
           description: "<body><p>Dit attribute is</p></body><body><p>Dit attribute is</p></body><body><p>Een inhoudelijke toelichting op de toepassing van het informatie-element.</p></body>"
           required: false
           schema:
-            $ref: "#/components/schemas/Identificatie"
+            type: string
         - in: query
           name: locatieidentificatie
           description: ""
           required: false
           schema:
-            $ref: "#/components/schemas/Xs:string"
+            type: string
         - in: query
           name: locatieidentificatie
           description: ""
