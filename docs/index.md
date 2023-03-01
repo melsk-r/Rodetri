@@ -5,3 +5,4 @@ title: Test
 # Test
 
 * Bekijk de [Supplier overzicht](./Supplieroverzicht.html)
+* Of [deze](./supplier-overzicht)
